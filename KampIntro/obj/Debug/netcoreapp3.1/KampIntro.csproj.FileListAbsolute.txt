@@ -1,0 +1,13 @@
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+D:\Masaüstü\Kodlama.io\KampIntro\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache

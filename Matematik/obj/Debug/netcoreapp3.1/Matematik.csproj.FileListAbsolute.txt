@@ -1,0 +1,12 @@
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\Masaüstü\Kodlama.io\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache
